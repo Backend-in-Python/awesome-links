@@ -4,7 +4,7 @@
 
 ## Навигация
 - [Python](#python)
-  * [Code Quality](#code-quality 
+  * [Code Quality](#code-quality)
 - [Машинное обучение](#машинное-обучение)
   * [Нейронные сети](#нейронные-сети)
 
