@@ -1,6 +1,16 @@
-# awesome-links
+<p align="center">
+  <img width="400" height="400" src="https://user-images.githubusercontent.com/50069473/222978506-35c2fad2-aac5-4c44-b6a0-89601d4fd86f.png">
+</p>
 
+<h1 align="center">
+    awesome-links
+
+</h1>
+<p align="center">
 В этом репозитории я буду собирать различного рода ссылки на ресурсы, которые качественно передают суть темы.
+
+</p>
+
 
 ## Навигация
 - [Python](#python)
