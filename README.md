@@ -20,6 +20,11 @@
 
 ## Python
 
+
+### Architecture
+
+* [Clean Architecture](https://www.cosmicpython.com/book/preface.html) - книга про реализацию чистой архитектуры на python;
+
 ### Code Quality
 
 * [Radon](https://github.com/rubik/radon) - утилита для подсчета метрки сложности кода в python.
