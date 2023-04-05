@@ -44,5 +44,9 @@
 
 
 ## Backend
-* [An In-Depth Introduction To Idempotency](https://www.lpalmieri.com/posts/idempotency/) - статья про идемпотентность запросов. Пример на расте, но уловить концепции можно. В статье автор написал сервис рассылки имейлов. По кнопке пользователь отправляет запрос  на сервер, сервер его обрабатывает и шлет запрос к стороннему API имейлов.
+
+### Idempotency
+* [An In-Depth Introduction To Idempotency](https://www.lpalmieri.com/posts/idempotency/) - статья про идемпотентность запросов(Rust). Пример на расте, но уловить концепции можно. В статье автор написал сервис рассылки имейлов. По кнопке пользователь отправляет запрос  на сервер, сервер его обрабатывает и шлет запрос к стороннему API имейлов.
+
+* [Implementing Stripe-like Idempotency Keys in Postgres](https://brandur.org/idempotency-keys) - статья про идемпотентность запросов(Ruby).
 
